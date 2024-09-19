@@ -1,0 +1,168 @@
+{
+    "@@locale": "de",
+    "appTitle": "WetterFuchs",
+    "ok": "Ok",
+    "cancel": "Abbrechen",
+    "yes": "Ja",
+    "no": "Nein",
+    "add": "Hinzufügen",
+    "save": "Speichern",
+    "error": "Sorry, da ist etwas schief gegangen...",
+    "loading": "Lade ...",
+    "select": "Auswahl",
+    "selected": "Ausgewählt",
+    "search": "Suche",
+    "counterLabel": "Du hast den Button sooft gedrückt:",
+    "fabMainTooltip": "erhöhen",
+    "placeholder": "placeholder",
+    "home": "Start",
+    "counter": "Zähler",
+    "calendar": "Kalender",
+    "tomorrow": "morgen",
+    "autocomplete_hint": "Anderen Ort suchen",
+    "lastUpdate": "Letztes Update am {date} um {time}",
+    "@lastUpdate": {
+    "description": "A message with a date parameter",
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMEd"
+      },
+      "time":{
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+    },
+    "mintemp": "Min. Temperatur in {temp}",
+  "@mintemp":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "maxtemp": "Max. Temperatur in {temp}",
+  "@maxtemp":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "avgtemp": "Ø Temperatur in {temp}",
+  "@avgtemp":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "maxwind": "Max Windgeschw. in {temp}",
+  "@maxwind":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "percip": "Gesamtniederschlag in {temp}",
+  "@percip":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "snow": "Gesamtschnee in {temp}",
+  "@snow":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "visibility": "Ø Sichtweite in {temp}",
+  "@visibility":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "humidity": "Ø Luftfeuchtigkeit in %",
+  "uv": "Ultraviolette Strahlung (UV)",
+  "sunrise": "Sonnenaufgang",
+  "mytime": "{temp}",
+  "@mytime":{
+    "placeholders": {
+      "temp":{
+      "type":  "DateTime",
+      "format": "Hm"
+    }
+    }
+  },
+  "sunset": "Sonnenuntergang",
+  "moonrise": "Mondaufgang",
+  "moonset": "Monduntergang",
+  "moonphase": "Aktuelle Mondphase",
+  "moonillumination": "Mondhelligkeit",
+  "date": "{date}",
+    "@date": {
+    "description": "A message with a date parameter",
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      }
+    }
+},
+"calender_import": "Kalendertermine importieren",
+"settings": "Einstellungen",
+"rain_warning": "Heute wird es regnen!",
+"snow_warning": "Heute wird es schneien!",
+"todays_plans": "Heute haben sie folgende Termine:",
+"today_noplans": "Für heute haben Sie keine Termine",
+"way_to": "Hinweg",
+"way_back": "Rückweg",
+"rain_check": "Es regnet beim {way}",
+"@rain_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"snow_check": "Es schneit beim {way}",
+"@snow_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"wind_check": "Starker Wind beim {way}",
+"@wind_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"cold_check": "Sehr kalt beim {way}",
+"@cold_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"heat_check": "Sehr heiß beim {way}",
+"@heat_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+}
+}

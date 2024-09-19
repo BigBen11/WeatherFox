@@ -1,0 +1,186 @@
+{
+    "@@locale": "en",
+    "appTitle": "WeatherFox",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No",
+    "add": "Add",
+    "save": "Save",
+    "error": "We apologize for the inconvenience. This should not have happened...",
+    "loading": "Loading",
+    "select": "Select",
+    "selected": "Selected",
+    "deselect": "Deselect",
+    "search": "Search",
+    "counterLabel": "You have pushed the button this many times:",
+    "fabMainTooltip": "Increment",
+    "placeholder": "placeholder",
+    "requiredField": "This field is required",
+    "labelName": "Name",
+    "labelImageUrl": "Url of an image",
+    "delete": "Delete",
+    "home": "Home",
+    "counter": "Counter",
+    "details": "Details",
+    "noItems": "Sorry, no items.",
+    "calendar": "calendar",
+    "tomorrow": "tomorrow",
+    "autocomplete_hint": "Type in another location here",
+
+    "lastUpdate": "Last weather Update on {date} at {time}",
+    "@lastUpdate": {
+    "description": "A message with a date parameter",
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      },
+      "time":{
+        "type": "DateTime",
+        "format": "Hm"
+      }
+  }
+  },
+  "mintemp": "Minimal temerature in {temp}",
+  "@mintemp":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "maxtemp": "Maximal temerature in {temp}",
+  "@maxtemp":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "avgtemp": "Average temerature in {temp}",
+  "@avgtemp":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "maxwind": "Maximal wind speed in {temp}",
+  "@maxwind":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "percip": "Total Percipitation in {temp}",
+  "@percip":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "snow": "Total Snow in {temp}",
+  "@snow":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "visibility": "Average Visibility in {temp}",
+  "@visibility":{
+    "placeholders": {
+      "temp":{
+        "type": "String"
+      }
+    }
+  },
+  "humidity": "Average Humidity in %",
+  "uv": "Ultraviolet Radiation Intensity (UV)",
+  "sunrise": "sunrise at",
+  "time": "{temp}",
+  "@time":{
+    "placeholders": {
+      "temp":{
+      "type":  "DateTime",
+      "format": "jm"
+    }
+    }
+  },
+  "sunset": "sunset at",
+  "moonrise": "moonrise at",
+  "moonset": "moonset at",
+  "moonphase": "Current moonphase",
+  "moonillumination": "Moon Illumination",
+  "date": "{date}",
+    "@date": {
+    "description": "A message with a date parameter",
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      }
+    }
+  },
+  "mytime": "{time}",
+    "@mytime": {
+    "description": "A message with a time parameter",
+    "placeholders": {
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
+  "calender_import": "Import events from calendar",
+  "settings": "settings",
+  "rain_warning": "It will rain today!",
+  "snow_warning": "It will snow today!",
+  "todays_plans": "Today you have following plans:",
+  "today_noplans": "You have no plans for today",
+  "way_to": "Way to",
+  "way_back": "Way back",
+  "rain_check": "It rains on the {way}",
+"@rain_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"snow_check": "It snows on the {way}",
+"@snow_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"wind_check": "Strong wind on the {way}",
+"@wind_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"cold_check": "Very cold on the {way}",
+"@cold_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+},
+"heat_check": "Very hot {way}",
+"@heat_check":{
+  "placeholders": {
+    "way":{
+      "type": "String"
+    }
+  }
+}
+}
