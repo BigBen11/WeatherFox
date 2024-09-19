@@ -1,30 +1,30 @@
-# Learning Flutter
+# Flutter App - WeatherFox
 
-![Build Status](https://code.fbi.h-da.de/hci-trapp/hci-lab-studi-wise23-24/hciFr-1-Baikenov_Mechiki_Polskiy_Vikulov/badges/main/pipeline.svg)
+This repo contains:
 
-This repo contains a base project, that
+- **WeatherFox App: A cross-platform weather forecasting application developed using Flutter by a team of four students. The app integrates an API from a German weather forecasting company to provide accurate and real-time weather updates.**
 
-- contains a flutter base project using riverpod and go_router
-- is described by videos in the youtube playlists
-  - in German:[Flutter-Tutorial (deutsch) mit Riverpod und GoRouter](https://www.youtube.com/playlist?list=PLosiZFS_rnz4QLGoivxmL8thtp9la79eW)
-  - in English: [Flutter tutorial with Riverpod and GoRouter](https://www.youtube.com/playlist?list=PLosiZFS_rnz6GE9SJPoVrmHB3wndU6K_Q)
-- shows the publication with gitlab ci and gitlab pages of
-  - [documentation](https://hcifr-1-baikenov-mechiki-polskiy-vikulov-hci-tra-589f306b749edf.h-da.io/docs/) written in md-files as supported by [obsidian](https://obsidian.md/) and realized using [mkdocs](https://www.mkdocs.org/)
-  - the running flutter app as a [web app](https://hcifr-1-baikenov-mechiki-polskiy-vikulov-hci-tra-589f306b749edf.h-da.io/app/)
-- shows ci of a flutter app
+- CI of a Flutter App
   - building the android APK-file (unsigned)
   - building the web app
   - analyzing the code
   - running widget tests
-- contains templates for new issues, bugs and merge requests
+
+- riverpod and go_router are described by videos in the youtube playlists
+  - in German: [Flutter-Tutorial (deutsch) mit Riverpod und GoRouter](https://www.youtube.com/playlist?list=PLosiZFS_rnz4QLGoivxmL8thtp9la79eW)
+  - in English: [Flutter tutorial with Riverpod and GoRouter](https://www.youtube.com/playlist?list=PLosiZFS_rnz6GE9SJPoVrmHB3wndU6K_Q)
+
+- Templates for new issues, bugs and merge requests
 
 The repository is given to the students of the module [Human Computer Interaction](https://obs.fbi.h-da.de/mhb/modul.php?nr=30.7328&sem=20212) at the University of Applied Sciences Darmstadt.
 However, most of the corresponding material is publicly available under [HCI-Trapp-Lab-Exercises](https://hci-trapp.h-da.io/hci-lab-exercises/) and you may do the course on your own.
 
-## Pages
+## Demo Video 🎥
+A short demo video of the first prototype of WeatherFox: 
+[**YouTube Video**](https://www.youtube.com/watch?v=ehFHyb_QAa4)
 
-- [check your docs](https://hcifr-1-baikenov-mechiki-polskiy-vikulov-hci-tra-589f306b749edf.h-da.io/docs/)
-- [check the app](https://hcifr-1-baikenov-mechiki-polskiy-vikulov-hci-tra-589f306b749edf.h-da.io/app/)
+(https://www.youtube.com/watch?v=ehFHyb_QAa4)
+
 
 ## Getting started
 
